@@ -1,7 +1,7 @@
 # CS50x : Finance
 
 ## Overview
-This is the Finance problem set from Harvard's CS50x: Introduction to Computer Science course. In this project, you'll create a web application that allows users to "buy" and "sell" stocks, effectively simulating a basic stock trading platform. The project focuses on working with HTML, CSS, JavaScript, and Python using the Flask framework.
+This is the Finance problem set from Harvard's CS50x: Introduction to Computer Science course. In this project, you can see a web application that allows users to "buy" and "sell" stocks, effectively simulating a basic stock trading platform. The project focuses on working with HTML, CSS, JavaScript, and Python using the Flask framework.
 
 ## What the Website Does
 
